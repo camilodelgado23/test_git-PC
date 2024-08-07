@@ -16,3 +16,21 @@ def suma(a, b):
          _description_
     """
     return a + b
+
+
+def resta(a, b):
+    """_summary_
+
+    Parameters
+    ----------
+    a : _type_
+        _description_
+    b: _type_
+        _description_
+
+    Returns 
+    -------
+    _type_
+         _description_
+    """   
+    return a - b
