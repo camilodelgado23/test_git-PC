@@ -1,0 +1,18 @@
+"""Test file for the main module"""
+
+def suma(a, b):
+    """_summary_
+
+    Parameters
+    ----------
+    a : _type_
+        _description_
+    b: _type_
+        _description_
+
+    Returns 
+    -------
+    _type_
+         _description_
+    """
+    return a + b
